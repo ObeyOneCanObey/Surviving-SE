@@ -1,0 +1,8 @@
+There are monsters and bosses you will have to
+fight. In a fight, you can choose to attack or
+use a potion. If you attack, you can select a
+weapon to attack with. Each weapon has special
+traits that make it suitable for different types
+of fights. Heal up with a potion if your GPA gets
+too low. It’s on you to decide what the best
+course of action is.

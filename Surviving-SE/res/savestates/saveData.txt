@@ -1,0 +1,7 @@
+level=0
+playerX=12
+playerY=12
+health=100
+gridX=131
+gridY=567
+numMonsterEncounters=0

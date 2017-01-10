@@ -1,25 +1,25 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "06e43772-ae1b-4c0d-9892-c0dabbf93334++9857",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "06e43772-ae1b-4c0d-9892-c0dabbf93334++4975",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "06e43772-ae1b-4c0d-9892-c0dabbf93334++9857" : {
+    "06e43772-ae1b-4c0d-9892-c0dabbf93334++4975" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "06e43772-ae1b-4c0d-9892-c0dabbf93334++9857" : 9223372036854775807
+    "06e43772-ae1b-4c0d-9892-c0dabbf93334++4975" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F7CB25D-573E-4557-A6E6-3F5D7DA63507",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "06e43772-ae1b-4c0d-9892-c0dabbf93334++9857" : "team26\/"
+    "06e43772-ae1b-4c0d-9892-c0dabbf93334++4975" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Surviving-SE",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Surviving-SE\/Surviving-SE.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Surviving-SE.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/ecesvn.uwaterloo.ca\/courses\/se101",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06e43772-ae1b-4c0d-9892-c0dabbf93334++9857"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06e43772-ae1b-4c0d-9892-c0dabbf93334++4975"
     }
   ]
 }

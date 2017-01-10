@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "194771361DE442B1005A8DE5"
+               BlueprintIdentifier = "19D919DB1DD8D74D0046460D"
                BuildableName = "Surviving-SE"
                BlueprintName = "Surviving-SE"
                ReferencedContainer = "container:Surviving-SE.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "194771361DE442B1005A8DE5"
+            BlueprintIdentifier = "19D919DB1DD8D74D0046460D"
             BuildableName = "Surviving-SE"
             BlueprintName = "Surviving-SE"
             ReferencedContainer = "container:Surviving-SE.xcodeproj">
@@ -46,8 +46,7 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
-      useCustomWorkingDirectory = "YES"
-      customWorkingDirectory = "/Users/JAYZ0N3/Documents/software_engineering/se101/team26/Surviving-SE/Surviving-SE"
+      useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
@@ -56,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "194771361DE442B1005A8DE5"
+            BlueprintIdentifier = "19D919DB1DD8D74D0046460D"
             BuildableName = "Surviving-SE"
             BlueprintName = "Surviving-SE"
             ReferencedContainer = "container:Surviving-SE.xcodeproj">
@@ -75,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "194771361DE442B1005A8DE5"
+            BlueprintIdentifier = "19D919DB1DD8D74D0046460D"
             BuildableName = "Surviving-SE"
             BlueprintName = "Surviving-SE"
             ReferencedContainer = "container:Surviving-SE.xcodeproj">

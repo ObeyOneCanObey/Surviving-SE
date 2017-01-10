@@ -1,0 +1,19 @@
+/*
+ * [5][1][6]
+ * [3][0][4]
+ * [7][2][8]
+ * MAP FOR REF
+ * (Sends in specific byte of data for specific movement)
+ */
+
+/*
+ *     [13]
+ *  [12]  [11]
+ *     [14]
+ *     
+ *  BUTTON MAP FOR REF
+ *
+ *  Switch On: 9   
+ *  Switch Off: 10
+ *  
+ */

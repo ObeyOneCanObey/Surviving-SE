@@ -1,0 +1,2 @@
+You received the weapon “BASH”. Use the power of the
+Bourne Again SHell to bash your way through your enemies!
